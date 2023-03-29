@@ -1,0 +1,164 @@
+.price{
+background-color:rgb(248, 76, 76);
+display: flex;
+width: 370px;
+margin-left: 400px;
+border-radius: 10px;
+margin-top: 15px;
+
+}
+
+.price img{
+    padding-bottom:0px;
+    margin-left: 140px;
+
+}
+.price p {
+    padding-left: 10px;
+    font-size: 8px;
+    color: white;
+    font-family:helvetica;
+
+}
+.tag{
+    padding-top: 35px;
+    padding-left: 25px;
+    font-size: medium;
+    font-family: helvetica;
+    color: white;
+
+   
+}
+.h2-nik{
+    margin-left: 40px;
+    font-family: helvetica;
+    padding-top: 30px;
+    
+}
+.little{
+    background-color:rgb(248, 76, 76) ;
+    height: 40px;
+    width: 35px;
+    border-radius: 5px;
+    margin-top: 158px;
+
+}
+
+.small{
+    margin-top:12px ;
+    background-color: rgb(248, 76, 76);
+    height: 80px;
+    width: 35px;
+    border-radius: 5px;
+    margin-top: 120px;
+
+    
+    
+}
+.biggest{
+    margin-top:12px ;
+    background-color:rgb(97, 97, 221);
+    height: 150px;
+     width: 35px;
+    border-radius: 5px;
+    margin-top: 50px;
+
+}
+.smaller{
+    margin-top: 130px;
+    background-color: rgb(248, 76, 76);
+    height: 70px;
+    width: 35px;
+    border-radius: 5px;
+}
+.smallest{
+    margin-top: 150px;
+    background-color: rgb(248, 76, 76);
+    height: 50px;
+    width: 35px;
+    border-radius: 5px;
+}
+.bigger{
+    margin-top: 100px;
+    background-color: rgb(248, 76, 76);
+    height: 100px;
+    width: 35px;
+    border-radius:5px;  
+}
+.big{
+    margin-top: 135px;
+    background-color: rgb(248, 76, 76);
+    height: 65px;
+    width: 35px;
+    border-radius:5px;  
+}
+.bars{
+    display:flex;
+    justify-content: space-between;
+    padding-left:40px;
+    margin-right: 40px;
+    position: relative;
+}
+
+
+
+.days{
+    display:flex;
+    justify-content:space-between;
+    padding-left: 40px;
+    margin-right: 40px;
+    
+
+
+}
+.lhs{
+    
+    
+    padding: 0.5px;
+    margin: 0 auto;
+    width: 84%;
+    background-color:grey;
+      
+}
+
+.one{
+    margin-left: -8px;
+    font-size: 15px;
+    font-family: helvetica; 
+}
+    
+.last{
+    padding-left:120px;
+    padding-top: 25px;
+}
+
+
+.heading{
+    background-color: white;
+    width: 367px;
+    margin-left: 400px;
+    border-radius:12px ;
+}
+.first{
+      display: flex;
+      padding-left: 30px;
+
+}
+.topsection{
+    background-color:  hsl(27, 66%, 92%);
+
+}
+.days a {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
+    
+    
+
+   
